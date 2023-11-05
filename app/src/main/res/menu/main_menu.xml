@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/menu_vb"
+            android:title="VB"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/menu_csharp"
+            android:title="C#"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/menu_java"
+            android:title="Java"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/menu_php"
+            android:title="PHP"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/menu_aspnet"
+            android:title="ASP.NET"
+            app:showAsAction="never" />
+</menu>
